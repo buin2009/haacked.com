@@ -3,15 +3,15 @@
 #
 author: Phil Haack
 description: You've been Haacked and you like it
-url: http://haacked.com
+url: http://buin2009.github.io
 title: You've Been Haacked
 subtitle: ...and you like it
-gravatar_url: https://2.gravatar.com/avatar/cdf546b601bf29a7eb4ca777544d11cd
-subscribe_rss: http://feeds.haacked.com/haacked
+gravatar_url: 
+subscribe_rss: http://feeds.ha
 
 # Github repositories
-github_user: haacked
-github_repo_url: https://github.com/Haacked/haacked.com/
+github_user: buin2009
+github_repo_url: https://github.com/buin2009/
 
 # Twitter
 twitter_user: haacked
@@ -22,7 +22,7 @@ disqus_short_name: haacked
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id: UA-177588-1
+google_analytics_tracking_id: 
 
 
 #
